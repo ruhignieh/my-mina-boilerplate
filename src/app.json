@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "Ali Scaffold",
+    "navigationBarTextStyle": "black",
+    "titleBarColor": "#ffffff",
+    "navigationBarForceEnable": true,
+    "allowsBounceVertical": "NO"
+  }
+}

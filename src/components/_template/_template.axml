@@ -1,0 +1,6 @@
+<template name="{{name}}-component-tpl">
+  <view class="{{name}}-component">
+		{{name}}-component
+		<!-- content -->
+	</view>
+</template>

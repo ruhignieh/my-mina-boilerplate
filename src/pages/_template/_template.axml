@@ -1,0 +1,6 @@
+<template name="{{name}}-page-tpl">
+  <view class="{{name}}-page">
+		{{name}}-page
+		<!-- content -->
+	</view>
+</template>
